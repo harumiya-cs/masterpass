@@ -1,7 +1,7 @@
 # masterpass
 
 
-## currently hosted at http://sherzodotajonov.pythonanywhere.com/
+## website currently isnt live :(
 
 
 ## current functionalities:
